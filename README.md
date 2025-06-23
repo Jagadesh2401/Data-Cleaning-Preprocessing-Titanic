@@ -1,6 +1,6 @@
 # Welcome to GitHub Desktop!
 
-This is your README. READMEs are # 🚢 Task 1: Titanic Data Cleaning & Preprocessing
+This is READMEs are # 🚢 Task 1: Titanic Data Cleaning & Preprocessing
 
 🎓 **Internship**: AI & ML  
 📁 **Task**: Data Preprocessing using Titanic Dataset  
