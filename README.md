@@ -1,6 +1,6 @@
-# Welcome to GitHub Desktop!
+# Data-Cleaning-Preprocessing-Titanic
 
-This is READMEs are # 🚢 Task 1: Titanic Data Cleaning & Preprocessing
+# 🚢 Task 1: Titanic Data Cleaning & Preprocessing
 📁 **Task**: Data Preprocessing using Titanic Dataset  
 📊 **Format**: Jupyter Notebook (`.ipynb`)
 tr
