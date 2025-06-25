@@ -1,8 +1,6 @@
 # Welcome to GitHub Desktop!
 
 This is READMEs are # 🚢 Task 1: Titanic Data Cleaning & Preprocessing
-
-🎓 **Internship**: AI & ML  
 📁 **Task**: Data Preprocessing using Titanic Dataset  
 📊 **Format**: Jupyter Notebook (`.ipynb`)
 tr
